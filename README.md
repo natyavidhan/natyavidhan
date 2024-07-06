@@ -1,20 +1,39 @@
-<h2 align="center">A 17-year-old "python guy" from India</h2>
+🚀 Aspiring Computer Science Enthusiast | Full Stack Developer | Game Developer | Software Engineer 🚀
 
-<p align="center"> <a href="https://github.com/natyavidhan/"><img src="https://github-profile-trophy-studiousgamer.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=1&margin-h=15&column=9" alt="studiousgamer" /></a> </p>
+Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in Delhi, India, with a passion for leveraging technology to solve real-world problems. 👨‍💻
 
-<a href="https://github.com/natyavidhan">
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=natyavidhan&bg_color=1d1f21&color=ffffff&line=2bbc8a&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
-</a>
-<h3 align="left">Connect with me:</h3>
+## 🌐 About Me:
 
-<p>
-<a href="mailto:natyavidhanbiswas10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-<a href="https://instagram.com/natyavidhan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/natya-vidhan-biswas-741310189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/channel/UCb3rnqZcBN9kPx5--yz5A3A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" alt="YouTube"></a>
-</p>
+🎓 High school Graduate with a focus on Full Stack web and Software Development for making everyone's life easy.
+🚀 Adept in Python and JavaScript, exploring the vast realms of technology to make a positive impact.
 
-<h3>Special Thanks to My Sponsors:</h3>
-<ul>
-  <li><a href="https://github.com/jrork">Joe Rork</a></li>
-</ul>
+## 🛠️ Skills:
+
+💻 Full Stack Development <br>
+🕹️ Game Development <br>
+📊 Software Development <br>
+🌐 Web Scraping <br>
+🤖 Automation <br>
+
+## 🔗 Projects:
+
+- [Tyro-Inc/Tyro-Engine](https://github.com/Tyro-Inc/Tyro-Engine)
+- [Rateaurant](https://github.com/rateaurant)
+- [quick-python-projects](https://github.com/natyavidhan/Quick-Python-Projects)
+- [Classroom-clone](https://github.com/natyavidhan/Classroom-clone)
+- [Snipper](https://github.com/natyavidhan/Snipper)
+
+## 📚 Current Endeavor:
+
+- Intern at Facts'n'Data, working on data scraping and automation for various machine learning use cases
+- Rateaurant, A platform for customers to browse menus and owners to manage their multiple restaurants
+- Zap, A barebones social media platform
+
+## 🤝 Connect with Me:
+
+💬 Open to collaboration, networking, and exploring new opportunities. <br>
+📧 Feel free to drop me a message at natyavidhanbiswas10@gmail.com. <br>
+🌐 Website: https://natya.is-a.dev <br>
+👨‍💻 LinkedIn: https://www.linkedin.com/in/natyavidhan/ <br>
+
+Let's connect, innovate, and build a brighter future together! 🌟
