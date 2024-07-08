@@ -26,9 +26,9 @@ Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in 
 
 ## 📚 Current Endeavor:
 
-- Intern at Facts'n'Data, working on data scraping and automation for various machine learning use cases
-- Rateaurant, A platform for customers to browse menus and owners to manage their multiple restaurants
-- Zap, A barebones social media platform
+- Intern at [Facts'n'Data](https://www.factsndata.com), working on data scraping and automation for various machine learning use cases
+- [Rateaurant](https://github.com/rateaurant), A platform for customers to browse menus and owners to manage their multiple restaurants
+- [Zap](https://github.com/natyavidhan/zap), A barebones social media platform
 
 ## 🤝 Connect with Me:
 
