@@ -19,7 +19,7 @@ Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in 
 
 - [Tyro-Inc/Tyro-Engine](https://github.com/Tyro-Inc/Tyro-Engine)
 - [Rateaurant](https://github.com/rateaurant)
-- [Zap](https://github.com/natyavidhan/zap)
+- [Zap Media](https://github.com/zap-media)
 - [quick-python-projects](https://github.com/natyavidhan/Quick-Python-Projects)
 - [Classroom-clone](https://github.com/natyavidhan/Classroom-clone)
 - [Snipper](https://github.com/natyavidhan/Snipper)
