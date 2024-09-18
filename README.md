@@ -4,7 +4,7 @@ Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in 
 
 ## 🌐 About Me:
 
-🎓 High school Graduate with a focus on Full Stack web and Software Development for making everyone's life easy.
+🎓 High school Graduate with a focus on Full Stack web and Software Development for making everyone's life easy. <br>
 🚀 Adept in Python and JavaScript, exploring the vast realms of technology to make a positive impact.
 
 ## 🛠️ Skills:
@@ -19,7 +19,7 @@ Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in 
 
 - [Tyro-Inc/Tyro-Engine](https://github.com/Tyro-Inc/Tyro-Engine)
 - [Rateaurant](https://github.com/rateaurant)
-- [Zap Media](https://github.com/zap-media)
+- [Zap Media](https://github.com/natyavidhan/zap)
 - [quick-python-projects](https://github.com/natyavidhan/Quick-Python-Projects)
 - [Classroom-clone](https://github.com/natyavidhan/Classroom-clone)
 - [Snipper](https://github.com/natyavidhan/Snipper)
@@ -28,7 +28,7 @@ Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in 
 
 - Intern at [Facts'n'Data](https://www.factsndata.com), working on data scraping and automation for various machine learning use cases
 - [Rateaurant](https://github.com/rateaurant), A platform for customers to browse menus and owners to manage their multiple restaurants
-- [Zap Media](https://github.com/zap-media), Open Source digital media services solo developed by me
+- [Zap](https://github.com/natyavidhan/zap), Open Source Instagram-like platform solo developed by me
 
 ## 🤝 Connect with Me:
 
