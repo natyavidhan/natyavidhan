@@ -1,10 +1,12 @@
+![header](header.png)
+
 🚀 Aspiring Computer Science Enthusiast | Full Stack Developer | Game Developer | Software Engineer 🚀
 
-Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in Delhi, India, with a passion for leveraging technology to solve real-world problems. 👨‍💻
+Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student in Delhi, India, passionate about leveraging technology to solve real-world problems. 👨‍💻
 
 ## 🌐 About Me:
 
-🎓 High school Graduate with a focus on Full Stack web and Software Development for making everyone's life easy. <br>
+🎓 High school Graduate focusing on full-stack web and Software Development to make everyone's life easy. <br>
 🚀 Adept in Python and JavaScript, exploring the vast realms of technology to make a positive impact.
 
 ## 🛠️ Skills:
@@ -20,7 +22,7 @@ Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in 
 - [Tyro-Inc/Tyro-Engine](https://github.com/Tyro-Inc/Tyro-Engine)
 - [Rateaurant](https://github.com/rateaurant)
 - [Zap](https://github.com/natyavidhan/zap)
-- [quick-python-projects](https://github.com/natyavidhan/Quick-Python-Projects)
+- [AnonBlogs](https://github.com/natyavidhan/AnonBlogs)
 - [Classroom-clone](https://github.com/natyavidhan/Classroom-clone)
 - [Snipper](https://github.com/natyavidhan/Snipper)
 
@@ -28,7 +30,7 @@ Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student based in 
 
 - Intern at [Facts'n'Data](https://www.factsndata.com), working on data scraping and automation for various machine learning use cases
 - [Rateaurant](https://github.com/rateaurant), A platform for customers to browse menus and owners to manage their multiple restaurants
-- [Zap](https://github.com/natyavidhan/zap), Open Source Instagram-like platform solo developed by me
+- [Zap](https://github.com/natyavidhan/zap), An Open Source Instagram-like platform solo developed by me
 
 ## 🤝 Connect with Me:
 
