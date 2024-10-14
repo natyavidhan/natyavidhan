@@ -2,12 +2,8 @@
 
 🚀 Aspiring Computer Science Enthusiast | Full Stack Developer | Game Developer | Software Engineer 🚀
 
-Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student in Delhi, India, passionate about leveraging technology to solve real-world problems. 👨‍💻
-
 ## 🌐 About Me:
-
-🎓 High school Graduate focusing on full-stack web and Software Development to make everyone's life easy. <br>
-🚀 Adept in Python and JavaScript, exploring the vast realms of technology to make a positive impact.
+Hello, I'm Natya Vidhan Biswas, a 17-year-old Computer Science student in Delhi, India. Passionate about leveraging technology to solve real-world problems. Proficient in Python and JavaScript.
 
 ## 🛠️ Skills:
 
