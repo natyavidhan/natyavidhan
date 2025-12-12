@@ -3,13 +3,12 @@
 🚀 Aspiring Computer Science Enthusiast | Full Stack Developer | Game Developer | Software Engineer 🚀
 
 ## 🌐 About Me:
-Hello, I'm Natya Vidhan Biswas, a 18-year-old Computer Science student in Delhi, India. Passionate about leveraging technology to solve real-world problems. Proficient in Python and JavaScript.
+Hello, I'm Natya Vidhan Biswas, a 19-year-old Computer Science student in Delhi, India. Passionate about leveraging technology to solve real-world problems. Proficient in Python and JavaScript.
 
 ## 🛠️ Skills:
 
 💻 Full Stack Development <br>
 🕹️ Game Development <br>
-📊 Software Development <br>
 🌐 Web Scraping <br>
 🤖 Automation <br>
 
@@ -24,9 +23,7 @@ Hello, I'm Natya Vidhan Biswas, a 18-year-old Computer Science student in Delhi,
 
 ## 📚 Current Endeavor:
 
-- Intern at [Facts'n'Data](https://www.factsndata.com), working on data scraping and automation for various machine learning use cases
-- [Rateaurant](https://github.com/rateaurant), A platform for customers to browse menus and owners to manage their multiple restaurants
-- [Zap](https://github.com/natyavidhan/zap), An Open Source Instagram-like platform solo developed by me
+- [Planq](https://github.com/planq-org), Planq is a self-built edtech platform designed for Indian entrance exam aspirants (JEE, NEET, etc.).
 
 ## 🤝 Connect with Me:
 
